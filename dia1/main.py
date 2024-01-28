@@ -40,10 +40,10 @@ for i in range (5,10,2): #for contador in range (desde, hasta, pasos)
     
 # ----ciclo while ----
 
-booleanito = True
+booleanito = False
 while booleanito == True: #while condicion_a_cumplir:
     print("sigo vivo")
-    booleanito = False
+    booleanito = False 
     
 # ----condicionales-----#
 
@@ -55,6 +55,10 @@ if masato > 100:
 
 else:
     print ("no es mayor")
+
+
+
+##----FUNCIONES----##
 
 ##----Con parametros y con retorno----##
 
