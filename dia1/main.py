@@ -4,7 +4,7 @@
 ## IMPRESIÓN EN CONSOLA 
 print("hola mundo") 
 
-# ----DATOS PRIMITIVOS ----
+# ----DATOS PRIMITIVOS -----
 # 1. String
 Texto = "campus"
 print(Texto)
